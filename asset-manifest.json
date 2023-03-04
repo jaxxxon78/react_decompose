@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react_decompose/static/css/main.1ccd7f8c.chunk.css",
-    "main.js": "/react_decompose/static/js/main.8286e981.chunk.js",
-    "main.js.map": "/react_decompose/static/js/main.8286e981.chunk.js.map",
+    "main.css": "/react_decompose/static/css/main.7775114c.chunk.css",
+    "main.js": "/react_decompose/static/js/main.27af750a.chunk.js",
+    "main.js.map": "/react_decompose/static/js/main.27af750a.chunk.js.map",
     "runtime-main.js": "/react_decompose/static/js/runtime-main.e8adb758.js",
     "runtime-main.js.map": "/react_decompose/static/js/runtime-main.e8adb758.js.map",
     "static/js/2.3949d50e.chunk.js": "/react_decompose/static/js/2.3949d50e.chunk.js",
     "static/js/2.3949d50e.chunk.js.map": "/react_decompose/static/js/2.3949d50e.chunk.js.map",
     "index.html": "/react_decompose/index.html",
-    "static/css/main.1ccd7f8c.chunk.css.map": "/react_decompose/static/css/main.1ccd7f8c.chunk.css.map",
+    "static/css/main.7775114c.chunk.css.map": "/react_decompose/static/css/main.7775114c.chunk.css.map",
     "static/js/2.3949d50e.chunk.js.LICENSE.txt": "/react_decompose/static/js/2.3949d50e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e8adb758.js",
     "static/js/2.3949d50e.chunk.js",
-    "static/css/main.1ccd7f8c.chunk.css",
-    "static/js/main.8286e981.chunk.js"
+    "static/css/main.7775114c.chunk.css",
+    "static/js/main.27af750a.chunk.js"
   ]
 }
